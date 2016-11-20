@@ -1,6 +1,6 @@
 This is a fork of [vektra/mockery](https://github.com/vektra/mockery) that removes 
 interface assertion from the generated mock and unbreaks white-box testing with mockery.
-See [issue #110](https://github.com/vektra/mockery)
+See [issue #110](https://github.com/vektra/mockery/issues/110)
 
 mockery
 =======
